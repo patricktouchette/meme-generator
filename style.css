@@ -1,0 +1,14 @@
+canvas {
+  /* border: 1px solid black; */
+}
+
+body {
+  display: flex;
+}
+
+.inputs {
+  display: flex;
+  flex-direction: column;
+  margin-top: 100px;
+  margin-left: 50px;
+}
